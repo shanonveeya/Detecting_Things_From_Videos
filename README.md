@@ -1,3 +1,5 @@
+# Detecting things from videos
+Files and readme in this repository are those provided by the workshop conducting team.Wrote the code myself as guided.
 ## Intro
 
 [![Build Status](https://travis-ci.org/thtrieu/darkflow.svg?branch=master)](https://travis-ci.org/thtrieu/darkflow) [![codecov](https://codecov.io/gh/thtrieu/darkflow/branch/master/graph/badge.svg)](https://codecov.io/gh/thtrieu/darkflow)
